@@ -1,0 +1,64 @@
+{
+ "Diakok": [
+{
+"id": 1,
+"nev": "Szalka László",
+"email": "szalas241@hengersor.hu",
+"osztaly_id": 1
+},
+{
+"id": 2,
+"nev": "Kovács Péter",
+"email": "kovacs.peter@iskola.hu",
+"osztaly_id": 2
+},
+{
+"id": 3,
+"nev": "Nagy Anna",
+"email": "nagy.anna@iskola.hu",
+"osztaly_id": 3
+},
+{
+"id": 4,
+"nev": "Tóth Gergő",
+"email": "toth.gergo@iskola.hu",
+"osztaly_id": 4
+},
+{
+"id": 5,
+"nev": "Varga Dóra",
+"email": "varga.dora@iskola.hu",
+"osztaly_id": 5
+},
+{
+"id": 6,
+"nev": "Molnár Bence",
+"email": "molnar.bence@iskola.hu",
+"osztaly_id": 6
+},
+{
+"id": 7,
+"nev": "Horváth Réka",
+"email": "horvath.reka@iskola.hu",
+"osztaly_id": 7
+},
+{
+"id": 8,
+"nev": "Kiss Márk",
+"email": "kiss.mark@iskola.hu",
+"osztaly_id": 8
+},
+{
+"id": 9,
+"nev": "Balogh Zsófia",
+"email": "balogh.zsofia@iskola.hu",
+"osztaly_id": 9
+},
+{
+"id": 10,
+"nev": "Farkas Levente",
+"email": "farkas.levente@iskola.hu",
+"osztaly_id": 10
+}
+]
+}

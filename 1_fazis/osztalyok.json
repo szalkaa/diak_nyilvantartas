@@ -2,61 +2,61 @@
   "Osztalyok": [
 {
 "id": 1,
-"name": "Mikó Barbara",
+"nev": "Mikó Barbara",
 "szak": "Informatika",
 "evfolyam": 13
 },
 {
 "id": 2,
-"name": "Németh Katalin",
+"nev": "Németh Katalin",
 "szak": "Szoftverfejlesztés",
 "evfolyam": 12
 },
 {
 "id": 3,
-"name": "Kiss Attila",
+"nev": "Kiss Attila",
 "szak": "Informatika",
 "evfolyam": 11
 },
 {
 "id": 4,
-"name": "Tóth Erika",
+"nev": "Tóth Erika",
 "szak": "Gazdálkodás",
 "evfolyam": 13
 },
 {
 "id": 5,
-"name": "Horváth Zoltán",
+"nev": "Horváth Zoltán",
 "szak": "Elektronika",
 "evfolyam": 12
 },
 {
 "id": 6,
-"name": "Varga Judit",
+"nev": "Varga Judit",
 "szak": "Informatika",
 "evfolyam": 11
 },
 {
 "id": 7,
-"name": "Szabó Gábor",
+"nev": "Szabó Gábor",
 "szak": "Mechatronika",
 "evfolyam": 13
 },
 {
 "id": 8,
-"name": "Molnár Ágnes",
+"nev": "Molnár Ágnes",
 "szak": "Turizmus",
 "evfolyam": 12
 },
 {
 "id": 9,
-"name": "Balázs István",
+"nev": "Balázs István",
 "szak": "Informatika",
 "evfolyam": 10
 },
 {
 "id": 10,
-"name": "Farkas Júlia",
+"nev": "Farkas Júlia",
 "szak": "Kereskedelem",
 "evfolyam": 11
 }

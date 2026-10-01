@@ -1,0 +1,10 @@
+CREATE DATABASE szalka_DiakNyilvantarto DEFAULT CHARACTER SET UTF8 COLLATE UTF8_HUNGARIAN_cI;
+
+CREATE TABLE osztalyok (id int(11) AUTO_INCREMENT PRIMARY KEY,nev varchar(99), szak varchar (99),  evfolyam int(2));
+
+CREATE TABLE diakok (id int(11) AUTO_INCREMENT PRIMARY KEY, nev varchar(99), email varchar(99), osztaly_id int, FOREIGN KEY (osztaly_id) REFERENCES osztalyok(id));
+
+INSERT into osztalyok VALUES("","Mikó Barbara","informatika",13);
+
+
+

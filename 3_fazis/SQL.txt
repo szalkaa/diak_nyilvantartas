@@ -4,7 +4,26 @@ CREATE TABLE osztalyok (id int(11) AUTO_INCREMENT PRIMARY KEY,nev varchar(99), s
 
 CREATE TABLE diakok (id int(11) AUTO_INCREMENT PRIMARY KEY, nev varchar(99), email varchar(99), osztaly_id int, FOREIGN KEY (osztaly_id) REFERENCES osztalyok(id));
 
-INSERT into osztalyok VALUES("","Mikó Barbara","informatika",13);
 
 
+INSERT into osztalyok VALUES("","Mikó Barbara","Informatika",13);
+INSERT into osztalyok VALUES("","Németh Katalin","Szoftverfejlesztés",12);
+INSERT into osztalyok VALUES("","Kiss Attila","Informatika",11);
+INSERT into osztalyok VALUES("","Tóth Erika","Gazdálkodás",13);
+INSERT into osztalyok VALUES("","Horváth Zoltán","Elektronika",12);
+INSERT into osztalyok VALUES("","Varga Judit","Informatika",11);
+INSERT into osztalyok VALUES("","Szabó Gábor","Mechatronika",13);
+INSERT into osztalyok VALUES("","Molnár Ágnes","Turizmus",12);
+INSERT into osztalyok VALUES("","Balázs István","Informatika",10);
+INSERT into osztalyok VALUES("","Farkas Júlia","Kereskedelem",11);
 
+INSERT into diakok (nev, email, osztaly_id) VALUES ("Szalka László","szalas241@hengersro.hu",3);
+INSERT into diakok (nev, email, osztaly_id) VALUES ("Kovács Péter","kovacs.peter@iskola.hu",2);
+INSERT into diakok (nev, email, osztaly_id) VALUES ("Nagy Anna","nagy.anna@iskola.hu",3);
+INSERT into diakok (nev, email, osztaly_id) VALUES ("Tóth Gergő","toth.gergo@iskola.hu",4);
+INSERT into diakok (nev, email, osztaly_id) VALUES ("Varga Dóra","varga.dora@iskola.hu",5);
+INSERT into diakok (nev, email, osztaly_id) VALUES ("Molnár Bence","molnar.bence@iskola.hu",6);
+INSERT into diakok (nev, email, osztaly_id) VALUES ("Horváth Réka","horvath.reka@iskola.hu",7);
+INSERT into diakok (nev, email, osztaly_id) VALUES ("Kiss Márk","kiss.mark@iskola.hu",8);
+INSERT into diakok (nev, email, osztaly_id) VALUES ("Balogh Zsófia","balogh.zsofia@iskola.hu",9);
+INSERT into diakok (nev, email, osztaly_id) VALUES ("Farkas Levente","farkas.levente@iskola.hu",10);
